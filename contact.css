@@ -34,7 +34,7 @@
 .contact .content{
     max-width: 800px;
     text-align: center;
-    margin-left: 10%; 
+    margin-left: 29%; 
 }
  .contact .content h1{
     font-size:50px; 
@@ -48,11 +48,13 @@
     color: rgb(110, 19, 101);
 }
 .container{
+    color: rgb(110, 19, 101);
     display:flex;
     justify-content: center;
     align-items: center;
     width:100%;
     margin-top: 30px;
+    margin-left: 40%;
 }
 .conatiner .contactInfo{
     width: 50%;
@@ -96,7 +98,7 @@ margin-right: 10%;
  }
  .contactform h2{
     font-size: 30px;
-    color: #a31689;
+    color: rgb(110, 19, 101);
     font-weight: 500;
     font-family: 'Brush script MT';
  }
@@ -159,3 +161,6 @@ margin-right: 10%;
     }
  } 
 
+.text p{
+    color: rgb(175, 34, 151);
+}
